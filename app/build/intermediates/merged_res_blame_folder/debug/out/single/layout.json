@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.clockapp-mergeDebugResources-46:/layout/fragment_second.xml",
+        "source": "com.example.clockapp-main-49:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.clockapp-mergeDebugResources-46:/layout/content_timer.xml",
+        "source": "com.example.clockapp-main-49:/layout/content_timer.xml"
+    },
+    {
+        "merged": "com.example.clockapp-mergeDebugResources-46:/layout/activity_timer.xml",
+        "source": "com.example.clockapp-main-49:/layout/activity_timer.xml"
+    },
+    {
+        "merged": "com.example.clockapp-mergeDebugResources-46:/layout/fragment_first.xml",
+        "source": "com.example.clockapp-main-49:/layout/fragment_first.xml"
+    }
+]

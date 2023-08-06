@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-47:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.clockapp-main-49:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-47:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.clockapp-main-49:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-47:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.clockapp-main-49:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-47:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.clockapp-main-49:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-47:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.clockapp-main-49:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-47:/menu_menu_main.xml.flat",
+        "source": "com.example.clockapp-main-49:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-47:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.clockapp-main-49:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\layout_activity_timer.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\layout\\activity_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\layout_content_timer.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\layout\\content_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-47:/navigation_nav_graph.xml.flat",
+        "source": "com.example.clockapp-main-49:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.clockapp-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-47:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.clockapp-main-49:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-47:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.clockapp-main-49:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-47:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.clockapp-main-49:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.clockapp-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-47:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.clockapp-main-49:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-47:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.clockapp-main-49:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-47:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.clockapp-main-49:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\drawable_ic_timer.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\drawable\\ic_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\drawable_ic_pause.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.clockapp-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-merged_res-47:\\drawable_ic_stop.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.clockapp-main-49:\\drawable\\ic_stop.xml"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-47:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.clockapp-main-49:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-47:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.clockapp-main-49:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.clockapp-merged_res-47:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.clockapp-main-49:/mipmap-mdpi/ic_launcher_round.png"
+    }
+]
